@@ -13,7 +13,7 @@ reference simulator:https://github.com/nsnam/ns-3-dev-git
 
 1. Clone this branch.
 
-2. Build ns-3 under the 'ns-3-dev-11ax' folder.
+2. Build ns-3 under the 'ns3-11ac' folder.
 
    command : ./waf configure --enable-examples --enable-tests --build-profile=optimized
 
